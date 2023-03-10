@@ -1,6 +1,6 @@
-# projetos_flutter
+# RandomApp
 
-A new Flutter project.
+A simple new Flutter project that generates random phrases
 
 ## Getting Started
 
